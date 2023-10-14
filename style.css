@@ -6,3 +6,9 @@ body {
 header {
   background-color: indianred;
 }
+body {
+  color: red;
+
+  background-origin: border-box;
+  background-color: red;
+}
