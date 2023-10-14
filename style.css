@@ -1,5 +1,7 @@
 body {
   color: red;
+
+  background-origin: border-box;
 }
 header {
   background-color: indianred;
